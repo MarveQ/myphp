@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Customer form</title>
+</head>
+<body>
+    <h1>Please Enter Customer Information</h1>
+    <form action="customer_action.php" method="get" name="form1">
+      <table width="59%" border="0" cellspacing="0" cellpadding="5">
+        <tbody><tr> 
+          <td width="24%"><font size="4">First Name</font></td>
+          <td width="76%"><input name="custFirst" type="text" id="custFirst" size="25" maxlength="25"></td>
+        </tr>
+        <tr> 
+          <td><font size="4">Last Name</font></td>
+          <td><input name="custLast" type="text" id="custLast" size="20" maxlength="20"></td>
+        </tr>
+        <tr> 
+          <td><font size="4">Address</font></td>
+          <td><input name="custAddress" type="text" id="custAddress" size="40" maxlength="40"></td>
+        </tr>
+        <tr> 
+          <td><font size="4">City</font></td>
+          <td><input name="custCity" type="text" id="custCity" size="15" maxlength="15"></td>
+        </tr>
+        <tr> 
+          <td><font size="4">State</font></td>
+          <td><p>
+            <label>
+    <input name="custState" type="radio" id="custState_0" value="MA" checked="">          
+    MA</label>
+            <br>
+            <label>
+              <input type="radio" name="custState" value="NH" id="custState_1">
+              NH</label>
+            <br>
+            <label>
+              <input type="radio" name="custState" value="RI" id="custState_2">
+              RI</label>
+            <br>
+          </p></td>
+        </tr>
+        <tr> 
+          <td><font size="4">Zip</font></td>
+          <td><input name="custZip" type="text" id="custZip" size="8" maxlength="5"></td>
+        </tr>
+        <tr> 
+          <td><font size="4">Email </font></td>
+          <td><input name="custEmail" type="text" id="custEmail" size="40" maxlength="40"></td>
+        </tr>
+        <tr> 
+          <td><font size="4">Phone</font></td>
+          <td><input name="custPhone" type="text" id="custPhone" size="10" maxlength="10"></td>
+        </tr>
+        <tr> 
+          <td>&nbsp;</td>
+          <td><input type="submit" name="Submit" value="Submit"></td>
+        </tr>
+      </tbody></table>
+    </form>
+    <p><a href="index.html">Return </a></p>
+    
+    
+    </body>
+</html>

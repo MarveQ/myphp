@@ -1,0 +1,35 @@
+[04-Dec-2024 15:15:11 UTC] PHP Notice:  Undefined variable: First in /home/sn29scs17wei/public_html/cps240/ybrykin01/week14/student_list4.php on line 37
+[04-Dec-2024 15:15:16 UTC] PHP Notice:  Undefined index: stuFirst in /home/sn29scs17wei/public_html/cps240/ybrykin01/week14/student_action4.php on line 33
+[04-Dec-2024 15:15:16 UTC] PHP Notice:  Undefined index: stuLast in /home/sn29scs17wei/public_html/cps240/ybrykin01/week14/student_action4.php on line 34
+[04-Dec-2024 15:15:16 UTC] PHP Notice:  Undefined index: stuAddress in /home/sn29scs17wei/public_html/cps240/ybrykin01/week14/student_action4.php on line 35
+[04-Dec-2024 15:15:16 UTC] PHP Notice:  Undefined index: stuZip in /home/sn29scs17wei/public_html/cps240/ybrykin01/week14/student_action4.php on line 36
+[04-Dec-2024 15:15:16 UTC] PHP Notice:  Undefined index: stuStatus in /home/sn29scs17wei/public_html/cps240/ybrykin01/week14/student_action4.php on line 37
+[04-Dec-2024 15:15:16 UTC] PHP Notice:  Undefined index: stuEnrollAge in /home/sn29scs17wei/public_html/cps240/ybrykin01/week14/student_action4.php on line 38
+[04-Dec-2024 15:15:16 UTC] PHP Notice:  Undefined index: stuComment in /home/sn29scs17wei/public_html/cps240/ybrykin01/week14/student_action4.php on line 39
+[04-Dec-2024 15:15:18 UTC] PHP Notice:  Undefined variable: First in /home/sn29scs17wei/public_html/cps240/ybrykin01/week14/student_list4.php on line 37
+[04-Dec-2024 15:15:27 UTC] PHP Notice:  Undefined variable: First in /home/sn29scs17wei/public_html/cps240/ybrykin01/week14/student_list4.php on line 37
+[04-Dec-2024 15:15:31 UTC] PHP Notice:  Undefined variable: id in /home/sn29scs17wei/public_html/cps240/ybrykin01/week14/student_update4.php on line 127
+[04-Dec-2024 15:15:39 UTC] PHP Notice:  Undefined variable: First in /home/sn29scs17wei/public_html/cps240/ybrykin01/week14/student_list4.php on line 37
+[04-Dec-2024 15:15:47 UTC] PHP Notice:  Undefined variable: First in /home/sn29scs17wei/public_html/cps240/ybrykin01/week14/customer_list4.php on line 36
+[04-Dec-2024 15:15:54 UTC] PHP Notice:  Undefined index: custLast in /home/sn29scs17wei/public_html/cps240/ybrykin01/week14/customer_action4.php on line 32
+[04-Dec-2024 15:15:54 UTC] PHP Notice:  Undefined index: custFirst in /home/sn29scs17wei/public_html/cps240/ybrykin01/week14/customer_action4.php on line 33
+[04-Dec-2024 15:15:54 UTC] PHP Notice:  Undefined index: custAddress in /home/sn29scs17wei/public_html/cps240/ybrykin01/week14/customer_action4.php on line 34
+[04-Dec-2024 15:15:54 UTC] PHP Notice:  Undefined index: custCity in /home/sn29scs17wei/public_html/cps240/ybrykin01/week14/customer_action4.php on line 35
+[04-Dec-2024 15:15:54 UTC] PHP Notice:  Undefined index: custState in /home/sn29scs17wei/public_html/cps240/ybrykin01/week14/customer_action4.php on line 36
+[04-Dec-2024 15:15:54 UTC] PHP Notice:  Undefined index: custZip in /home/sn29scs17wei/public_html/cps240/ybrykin01/week14/customer_action4.php on line 37
+[04-Dec-2024 15:15:54 UTC] PHP Notice:  Undefined index: custEmail in /home/sn29scs17wei/public_html/cps240/ybrykin01/week14/customer_action4.php on line 38
+[04-Dec-2024 15:15:54 UTC] PHP Notice:  Undefined index: custPhone in /home/sn29scs17wei/public_html/cps240/ybrykin01/week14/customer_action4.php on line 39
+[04-Dec-2024 15:15:54 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/sn29scs17wei/public_html/cps240/ybrykin01/week14/customer_action4.php on line 91
+[04-Dec-2024 15:15:59 UTC] PHP Notice:  Undefined index: custLast in /home/sn29scs17wei/public_html/cps240/ybrykin01/week14/customer_action4.php on line 32
+[04-Dec-2024 15:15:59 UTC] PHP Notice:  Undefined index: custFirst in /home/sn29scs17wei/public_html/cps240/ybrykin01/week14/customer_action4.php on line 33
+[04-Dec-2024 15:15:59 UTC] PHP Notice:  Undefined index: custAddress in /home/sn29scs17wei/public_html/cps240/ybrykin01/week14/customer_action4.php on line 34
+[04-Dec-2024 15:15:59 UTC] PHP Notice:  Undefined index: custCity in /home/sn29scs17wei/public_html/cps240/ybrykin01/week14/customer_action4.php on line 35
+[04-Dec-2024 15:15:59 UTC] PHP Notice:  Undefined index: custState in /home/sn29scs17wei/public_html/cps240/ybrykin01/week14/customer_action4.php on line 36
+[04-Dec-2024 15:15:59 UTC] PHP Notice:  Undefined index: custZip in /home/sn29scs17wei/public_html/cps240/ybrykin01/week14/customer_action4.php on line 37
+[04-Dec-2024 15:15:59 UTC] PHP Notice:  Undefined index: custEmail in /home/sn29scs17wei/public_html/cps240/ybrykin01/week14/customer_action4.php on line 38
+[04-Dec-2024 15:15:59 UTC] PHP Notice:  Undefined index: custPhone in /home/sn29scs17wei/public_html/cps240/ybrykin01/week14/customer_action4.php on line 39
+[04-Dec-2024 15:15:59 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/sn29scs17wei/public_html/cps240/ybrykin01/week14/customer_action4.php on line 91
+[04-Dec-2024 15:16:10 UTC] PHP Notice:  Undefined variable: First in /home/sn29scs17wei/public_html/cps240/ybrykin01/week14/customer_list4.php on line 36
+[04-Dec-2024 15:16:19 UTC] PHP Notice:  Undefined variable: id in /home/sn29scs17wei/public_html/cps240/ybrykin01/week14/customer_update4.php on line 130
+[04-Dec-2024 15:16:22 UTC] PHP Notice:  Undefined index: custState in /home/sn29scs17wei/public_html/cps240/ybrykin01/week14/customer_action4.php on line 36
+[04-Dec-2024 15:16:24 UTC] PHP Notice:  Undefined variable: First in /home/sn29scs17wei/public_html/cps240/ybrykin01/week14/customer_list4.php on line 36

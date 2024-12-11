@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IF form</title>
+    <style>
+        .form-group {
+            display: flex;
+            margin-bottom: 10px;
+        }
+
+        .form-group label {
+            width: 100px; 
+            padding-right: 20px; 
+            text-align: right; 
+        }
+    </style>
+</head>
+<body>
+    <h1>Enter Customer Information</h1>
+    <form name="userForm" method="post" action="ifFormResult.php">
+        <div class="form-group">
+            <label for="userName">Name:</label>
+            <input name="userName" type="text" id="userName">
+        </div>
+        <div class="form-group">
+            <label for="userAddress">Address:</label>
+            <input name="userAddress" type="text" id="userAddress">
+        </div>
+        <div class="form-group">
+            <label for="userState">State:</label>
+            <input name="userState" type="text" id="userState">
+        </div>
+        <div class="form-group">
+            <label for="userZip">Zip:</label>
+            <input name="userZip" type="text" id="userZip">
+        </div>
+        <br>
+        <input type="submit" name="Submit" id="Submit">
+    </form>
+    <br>
+    <a href="index.html">return</a>
+</body>
+</html>
